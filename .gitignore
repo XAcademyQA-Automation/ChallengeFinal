@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# Cypress videos and screenshots
+cypress/videos/
+cypress/screenshots/
+
+# Configuración de Cypress (opcional si no quieres que se suban cambios de configuración local)
+cypress.env.json
+
+# Archivos de entorno
+.env
+.env.local
+.env.*.local
+
+# Archivos de log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de dependencia de paquetes
+package-lock.json
+yarn.lock
+
+# Otros archivos temporales y carpetas
+.idea/
+.vscode/
+*.log
